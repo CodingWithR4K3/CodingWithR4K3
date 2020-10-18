@@ -13,7 +13,8 @@
 ### Spotify Playing 🎧
 <br />
 
-[<img src="https://spotify-git-master.codingwithr4k3.vercel.app/api/spotify.py" alt="R4K3's Spotify Playing" width="350" />](https://open.spotify.com/user/doen4k9jzlwm0j3ng84m3bpkm)
+[<img src="https://spotify-git-master.codingwithr4k3.vercel.app/api/spotify.py" alt="R4K3's Spotify Playing" width="450" />](https://open.spotify.com/user/doen4k9jzlwm0j3ng84m3bpkm)
+
 
 <br />
 
