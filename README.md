@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwithr4k3&show_icons=true&locale=en&layout=compact" alt="codingwithr4k3" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwithr4k3&show_icons=true&locale=en" alt="codingwithr4k3" /></p>
+
+<!--START_SECTION:activity-->
