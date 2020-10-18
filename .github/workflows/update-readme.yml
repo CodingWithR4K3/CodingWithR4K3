@@ -1,6 +1,6 @@
-name: Update README
-
-on:
+- name: GitHub - Activity - Readme
+  uses: jamesgeorge007/github-activity-readme@v0.3.
+  
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
