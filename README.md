@@ -1,5 +1,7 @@
 ### Hi there, I'm Conrad! - AKA R4K3 👋
 
+---
+
 ## I'm a Student trying to learn how to Code 😄!!
 
 - 🔭 I just started a Bootcamp at Kodilla!
@@ -7,10 +9,12 @@
 - 👯 I’m looking to collaborate with other content creators and other students
 - 🥅 2020 Goals: Git gud 😅
 - ⚡ Fun fact: I love to play guitar and listen to music
+---
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-git-master.codingwithr4k3.vercel.app/api/spotify.py" alt="R4K3's Spotify Playing" width="450" />](https://open.spotify.com/user/doen4k9jzlwm0j3ng84m3bpkm)
 
+---
 
 ### Languages and Tools:
 <img align="left" alt="IntelliJ IDEA" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" />
@@ -21,6 +25,7 @@
 <img align="left" alt="GitHub" width="64px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
 <br />
 <br />
 <br />
