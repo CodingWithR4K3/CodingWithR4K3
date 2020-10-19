@@ -2,6 +2,12 @@
 
 ---
 
+
+![Header](https://github.com/CodingWithR4K3/CodingWithR4K3/blob/main/R4K3-banner.png "Header")
+
+
+---
+
 ## I'm a Student trying to learn how to Code 😄!!
 
 - 🔭 I just started a Bootcamp at Kodilla!
