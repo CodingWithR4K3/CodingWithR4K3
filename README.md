@@ -37,7 +37,17 @@
 <br />
 <br />
 
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithR4K3&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodingWithR4K3&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithR4K3&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
