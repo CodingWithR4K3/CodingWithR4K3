@@ -13,7 +13,7 @@
 - 🔭 I just started a Bootcamp at Kodilla!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators and other students
-- 🥅 2020 Goals: Git gud 😅
+- 🥅 2021 Goals: Git more gud 😅
 - ⚡ Fun fact: I love to play guitar and listen to music
 ---
 ### Spotify Playing 🎧
