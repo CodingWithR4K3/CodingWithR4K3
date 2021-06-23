@@ -10,8 +10,8 @@
 
 ## I'm a Student trying to learn how to Code 😄!!
 
-- 🔭 I just started a Bootcamp at Kodilla!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I finished bootcamp at Codilla!
+- 🌱 Still so much to learn 🤣
 - 👯 I’m looking to collaborate with other content creators and other students
 - 🥅 2021 Goals: Git more gud 😅
 - ⚡ Fun fact: I love to play guitar and listen to music
